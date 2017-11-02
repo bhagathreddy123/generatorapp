@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+changed appllication.rb because of customization of generators
+
+then added index.html.erb inside templates/erb/scaffold folder
+
+
+
+rails g scaffold Category name description:text
